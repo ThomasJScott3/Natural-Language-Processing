@@ -1,4 +1,4 @@
-# Unit-12: Natural-Language-Processing
+# Unit-12: Natural Language Processing
 
 ![My bitcoin wordcloud](https://github.com/ThomasJScott3/Natural-Language-Processing/blob/main/bitcoin_wordcloud.png)
 
